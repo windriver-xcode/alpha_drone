@@ -1,3 +1,0 @@
-opencv-python >=4.5
-djitellopy2 >= 2.3
-numpy >= 1.20
